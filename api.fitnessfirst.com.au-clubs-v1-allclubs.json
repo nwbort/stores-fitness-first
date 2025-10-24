@@ -1,0 +1,6405 @@
+{
+  "searchTime": "2025-10-24T06:27:59.9239515+00:00",
+  "hasResult": true,
+  "count": 46,
+  "clubs": [
+    {
+      "phone": "0395264550",
+      "longitude": 144.99384,
+      "latitude": -37.87007,
+      "title": "Balaclava Platinum",
+      "slug": "/clubs/balaclava-platinum/",
+      "clubId": "c521a088-393e-46eb-8b26-2d36a4b12435",
+      "address": {
+        "street1": "21-23 William Street",
+        "street2": null,
+        "suburb": "Balaclava",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3183",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Sauna",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/C0HDy3gVCy5fretqVria9/f904154fd8bcb0abeb06a5ccc7442b3d/Fitness-First-Balaclava-Platinum-Gym-Melbourne-Gym-Floor1.jpg"
+        }
+      ],
+      "clubVideos": [
+        {
+          "videoUrl": "https://videos.ctfassets.net/29v1tt20s4yg/16mtBfEUzmj1qdw8Sha9NC/ed4072fdfe2b8555a13fcc65b8e89966/Firtness_First_Melbourne_-_Balaclava_Hero_new_logo_1.mp4"
+        }
+      ]
+    },
+    {
+      "phone": "0280933200",
+      "longitude": 151.264343,
+      "latitude": -33.793169,
+      "title": "Balgowlah Platinum",
+      "slug": "/clubs/balgowlah-platinum/",
+      "clubId": "503fafcd-e29e-4dff-91bb-df74b47fa786",
+      "address": {
+        "street1": "Shop 67 197-215 Condamine Street",
+        "street2": null,
+        "suburb": "Balgowlah",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2093",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Gym Kit",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T19:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0283628800",
+      "longitude": 151.202142,
+      "latitude": -33.863405,
+      "title": "Barangaroo Titanium",
+      "slug": "/clubs/barangaroo-titanium/",
+      "clubId": "1461974f-8ff3-4777-ab63-09515a4cdce2",
+      "address": {
+        "street1": "Tower 1 Level 2 100 Barangaroo Avenue, lift access via Scotch Row",
+        "street2": null,
+        "suburb": "Barangaroo",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Free Weights",
+        "Gym Floor",
+        "In Body",
+        "Loaded Weights",
+        "Gym Kit",
+        "Online Entertainment",
+        "Express Training",
+        "Group Exercises",
+        "Personal Training",
+        "Black Label",
+        "Freestyle",
+        "Pilates",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0395597400",
+      "longitude": 145.0312471,
+      "latitude": -37.954688,
+      "title": "Bayside Platinum",
+      "slug": "/clubs/bayside-platinum/",
+      "clubId": "9a2bd251-fdc4-432d-93a3-d8a73efcad96",
+      "address": {
+        "street1": "241-245 Bay Road",
+        "street2": null,
+        "suburb": "Highett",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3190",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aqua Aerobics",
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Massage",
+        "Express Training",
+        "Group Exercises",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T14:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T14:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4dfm1yPDmkLZIdFtysPl8t/0c652c0478fc6a6891bc3bb3a600b3ce/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0282150200",
+      "longitude": 151.2083024,
+      "latitude": -33.864454,
+      "title": "Bond St Platinum",
+      "slug": "/clubs/bond-st-platinum/",
+      "clubId": "8dc7a5ca-83f7-4e84-b548-3235749c9fdd",
+      "address": {
+        "street1": "20 Bond Street",
+        "street2": null,
+        "suburb": "Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Gym Kit",
+        "Boxing Studio",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Personal Training Campus FIT College"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Closed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Closed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4jP569uXgP5vsEzGRZXe2x/ea3bf180cc5e0e9e15d23dcc5425bbf6/HD-IMGL1929-edited__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4WvWZjKYvb8zoylbIs05rD/64267635d9ad2c0564fcaf216d839843/thumbnail_20221228_144311__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7nVqffm94Mvx1joOg5CKSv/1d3feb889447e05da4d110bdc22a9777/20221228_144217.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0283835800",
+      "longitude": 151.249246,
+      "latitude": -33.892363,
+      "title": "Bondi Spring St Platinum",
+      "slug": "/clubs/bondi-spring-st-platinum/",
+      "clubId": "6260312a-58cf-49bd-a528-029f53eb408e",
+      "address": {
+        "street1": "110 Spring Street",
+        "street2": null,
+        "suburb": "Bondi Junction",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2022",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Barre",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:30:00.0000000",
+                "endTime": "0001-01-01T18:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:30:00.0000000",
+                "endTime": "0001-01-01T18:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/67RTUMcDlkLSkig9Iwjjnn/4cff1d7984223f3f364b4e70c43a0950/Spring_St_1.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3C9sYbdl0AIJAfhsG8rjUo/9394fa5360ded314a0d66a7f927a3402/Spring_St_2.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/NnT3eE3fyQsWHTnp2vxie/663a0525f1e2a91b8bafe3ad01d9f846/Spring_St_3.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0399452600",
+      "longitude": 145.011903,
+      "latitude": -37.909254,
+      "title": "Brighton",
+      "slug": "/clubs/brighton/",
+      "clubId": "6e80808e-1cd4-42fe-94a6-1838348f84d5",
+      "address": {
+        "street1": "531 Nepean Highway",
+        "street2": null,
+        "suburb": "Brighton East",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3187",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Beauty Room",
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Gym Kit",
+        "Massage",
+        "Sauna",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T11:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0262215901",
+      "longitude": 149.133251807342,
+      "latitude": -35.2802190894515,
+      "title": "Canberra",
+      "slug": "/clubs/canberra/",
+      "clubId": "0122e3ae-31c1-4df9-8671-3c62e6584e89",
+      "address": {
+        "street1": "Shop EL01, Canberra Centre, Bunda Street",
+        "street2": null,
+        "suburb": "Canberra",
+        "city": null,
+        "state": "Act",
+        "postcode": "2608",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Sauna",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Pilates",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T19:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T17:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T17:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/52s4J8dnDe50F6pM5ITD9B/a28b316585d80aa8b0420351b30b3175/FFCC-7572__3___1_.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0288459700",
+      "longitude": 151.052069,
+      "latitude": -33.777821,
+      "title": "Carlingford",
+      "slug": "/clubs/carlingford/",
+      "clubId": "f8dc15be-58cd-4615-9b26-a3a1f4afbf86",
+      "address": {
+        "street1": "Level 3, Carlingford Court Cnr Carlingford & Pennant Hils Road",
+        "street2": null,
+        "suburb": "Carlingford",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2118",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Gym Kit",
+        "Barre",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0297621600",
+      "longitude": 151.0049599,
+      "latitude": -33.732819,
+      "title": "Castle Hill",
+      "slug": "/clubs/castle-hill/",
+      "clubId": "86701f00-3d39-43d7-b1dc-6f6def29e1b9",
+      "address": {
+        "street1": "Shop 701, Level 3, Castle Towers",
+        "street2": null,
+        "suburb": "Castle Hill",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2154",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Beauty Room",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Gym Kit",
+        "Massage",
+        "Sauna",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Nutritionist",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy",
+        "Personal Training Campus AIPT"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T18:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:15:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/116IdmUHiJZGfz90pLt4RE/e51cb29c39c2c7e648199328467a8758/Cardio__1_.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0280933249",
+      "longitude": 151.182188,
+      "latitude": -33.795796,
+      "title": "Chatswood Platinum",
+      "slug": "/clubs/chatswood-platinum/",
+      "clubId": "33530a28-9680-4d13-a20d-6340644195c2",
+      "address": {
+        "street1": "24 Endeavour Street",
+        "street2": null,
+        "suburb": "Chatswood",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2067",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aqua Aerobics",
+        "Bike Racks",
+        "Cafe",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Dedicated Stretching Area",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Free Wifi",
+        "Massage",
+        "Swim School",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3jNnwpaveqEY9dISQ9Llkl/fb7a0c367e7d5fa198436430158da4d9/UPDATED_COMING_SOON_CLUB_BANNER__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0285560400",
+      "longitude": 151.1413244,
+      "latitude": -34.039511,
+      "title": "Cronulla",
+      "slug": "/clubs/cronulla/",
+      "clubId": "cfc56429-ac39-4769-89e7-137b70d1a53c",
+      "address": {
+        "street1": "447 Captain Cook Drive",
+        "street2": null,
+        "suburb": "Woolooware",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2230",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Gym Kit",
+        "Massage",
+        "Barre",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T15:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T15:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0281164200",
+      "longitude": 151.214072,
+      "latitude": -33.878575,
+      "title": "Darlinghurst Platinum",
+      "slug": "/clubs/darlinghurst-platinum/",
+      "clubId": "c022a59f-e987-4bc8-a5ec-349208f161ce",
+      "address": {
+        "street1": "Level 2, 63 Oxford Street",
+        "street2": null,
+        "suburb": "Darlinghurst",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2010",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Free Wifi",
+        "Sauna",
+        "Barre",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0262219600",
+      "longitude": 149.10763,
+      "latitude": -35.315523,
+      "title": "Deakin",
+      "slug": "/clubs/deakin/",
+      "clubId": "518be343-9c79-43d5-b3ed-3efe0b048d36",
+      "address": {
+        "street1": "81 Macgregor Street",
+        "street2": null,
+        "suburb": "Deakin",
+        "city": null,
+        "state": "Act",
+        "postcode": "2600",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Squash Courts",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Yoga",
+        "Personal Training Campus FIT College"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [],
+      "clubVideos": []
+    },
+    {
+      "phone": "0390261600",
+      "longitude": 145.126166,
+      "latitude": -37.784626,
+      "title": "Doncaster",
+      "slug": "/clubs/doncaster/",
+      "clubId": "9fe069ac-1bc9-47d4-beba-6e7c81406f09",
+      "address": {
+        "street1": "Tenancy 1154, Westfield Shopping Centre, 4/619 Doncaster Road",
+        "street2": null,
+        "suburb": "Doncaster",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3108",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [],
+      "clubVideos": []
+    },
+    {
+      "phone": "0243671000",
+      "longitude": 151.383648,
+      "latitude": -33.437893,
+      "title": "Erina Fair",
+      "slug": "/clubs/erina-fair/",
+      "clubId": "7e619ec9-af98-4b67-a4f4-6a2fe599f23d",
+      "address": {
+        "street1": "Erina Fair Shopping Centre, Fitness First Tenancy, Karalta Road",
+        "street2": null,
+        "suburb": "Erina",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2250",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Beauty Room",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Dedicated Stretching Area",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Free Wifi",
+        "Massage",
+        "Sauna",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T13:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0396164400",
+      "longitude": 144.965361,
+      "latitude": -37.817971,
+      "title": "Flinders St Platinum",
+      "slug": "/clubs/flinders-st-platinum/",
+      "clubId": "e3260b8a-b5e7-4042-bc2a-8a2fa171d27d",
+      "address": {
+        "street1": "Level 2 & 3, 276 Flinders Street",
+        "street2": null,
+        "suburb": "Melbourne",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Yoga",
+        "Personal Training Campus AIPT"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6XJROtFRiVAt7ktNyuV5mw/5b142e977ea4530a52a7d91d3bb43f06/IMG_4416_2.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/41SAv1YFRdw27DAKz9SOsE/40cf8853bb5c409807daa9c0b5cd9da3/thumbnail_IMG_4455_2.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2bChJKOW0LUhYnSSWkHtUt/21a53cbc9afa667dda5438aeaa401179/thumbnail_IMG_4437_2.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0286696300",
+      "longitude": 151.207051,
+      "latitude": -33.863885,
+      "title": "George St Platinum",
+      "slug": "/clubs/george-st-platinum/",
+      "clubId": "d6537913-d9a3-431d-ae6b-29e858cfced5",
+      "address": {
+        "street1": "Suncorp Building 259 George Street",
+        "street2": null,
+        "suburb": "Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Swimming Pool",
+        "Black Label",
+        "Freestyle",
+        "Nutritionist",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Personal Training Campus AIPT"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T10:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1xXfl0h5LFFA1BYLyU7yuC/e247fb24553286faaf610edf7dec5bc0/20230112_114414.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1VxZo4NQl3mcZwDUmmp9yg/0e77fb711199857be7cb841c6d986136/IMG_1656__1_.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0388474800",
+      "longitude": 145.147982,
+      "latitude": -37.876695,
+      "title": "Glen Waverley",
+      "slug": "/clubs/glen-waverley/",
+      "clubId": "3e0f7d9a-81e1-48c1-99a1-7dd793ce830c",
+      "address": {
+        "street1": "1/3 Coleman Parade",
+        "street2": null,
+        "suburb": "Glen Waverley",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3150",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Bike Racks",
+        "Cardio Equipment",
+        "Cardio Theatre",
+        "Change Rooms",
+        "Cycle Studio",
+        "Dedicated Stretching Area",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Pin Loaded Equipment",
+        "Weights",
+        "Functional Training Zone",
+        "Gym Kit",
+        "Sauna",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Strength Equipment",
+        "Freestyle",
+        "Group Fitness",
+        "Pilates",
+        "Relaxation Zone",
+        "Small Group Training Classes",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0284458400",
+      "longitude": 151.103121,
+      "latitude": -33.70365,
+      "title": "Hornsby",
+      "slug": "/clubs/hornsby/",
+      "clubId": "d52523d7-6e5b-45b0-8c86-783912203d8d",
+      "address": {
+        "street1": "Westfield Shopping Centre, Ground Floor, 10 Muriel Street",
+        "street2": null,
+        "suburb": "Hornsby",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2077",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Gym Kit",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [],
+      "clubVideos": []
+    },
+    {
+      "phone": "0281143600",
+      "longitude": 151.222551,
+      "latitude": -33.87521,
+      "title": "Kings Cross Platinum",
+      "slug": "/clubs/kings-cross-platinum/",
+      "clubId": "b1c24421-6307-4381-b180-de540e520601",
+      "address": {
+        "street1": "Level 8, Kingsgate Building 82-94 Darlinghurst Road",
+        "street2": null,
+        "suburb": "Potts Point",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2011",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1LoPFdDULvBXZp8z8ElSBp/f3d1c44dda8597290d701231f17735a4/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        }
+      ],
+      "clubVideos": [
+        {
+          "videoUrl": "https://videos.ctfassets.net/29v1tt20s4yg/49Zo4toPD7LGjc3Z0WUZYB/869c8cfd5045ad729d1ae3bfc30375a7/Fitness_First_Kings_X_2Kx1k_V1_No_Audio__1___1___1_.mp4"
+        }
+      ]
+    },
+    {
+      "phone": "0290027600",
+      "longitude": 151.11954,
+      "latitude": -33.776436,
+      "title": "Macquarie",
+      "slug": "/clubs/macquarie/",
+      "clubId": "b43ae59c-09a1-482f-a555-c8eb7231d08c",
+      "address": {
+        "street1": "Macquarie Shopping Centre, Shop 451, 109 Waterloo Road",
+        "street2": null,
+        "suburb": "North Ryde",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2113",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1LoPFdDULvBXZp8z8ElSBp/f3d1c44dda8597290d701231f17735a4/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0399355800",
+      "longitude": 145.082928,
+      "latitude": -37.877309,
+      "title": "Malvern Valley",
+      "slug": "/clubs/malvern-valley/",
+      "clubId": "52507916-bc80-4b92-97eb-dc6aec4f662b",
+      "address": {
+        "street1": "Building 6 - Holmesglen Tafe, Cnr Waverley & Batesford Road",
+        "street2": null,
+        "suburb": "Chadstone",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3148",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Massage",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T10:00:00.0000000",
+                "endTime": "0001-01-01T13:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T10:00:00.0000000",
+                "endTime": "0001-01-01T13:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0281173300",
+      "longitude": 151.204695,
+      "latitude": -33.870825,
+      "title": "Market St Platinum",
+      "slug": "/clubs/market-st-platinum/",
+      "clubId": "fd563b5c-43f3-4efb-912b-69f42852ff4b",
+      "address": {
+        "street1": "2 Market Street",
+        "street2": null,
+        "suburb": "Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Gym Kit",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0286690200",
+      "longitude": 151.238995,
+      "latitude": -33.941064,
+      "title": "Maroubra",
+      "slug": "/clubs/maroubra/",
+      "clubId": "1901aab2-b241-4c11-a0a3-4923e949a9a1",
+      "address": {
+        "street1": "Shop F07-F15, Level 1, Pacific Square Shopping Centre, 737 Anzac Parade",
+        "street2": null,
+        "suburb": "Maroubra",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2035",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6IQuoZMWfDD3UKNrYYZR2s/d124aeec8726c367a286bc4715d38593/UPDATED_COMING_SOON_CLUB_BANNER__1_.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0399352600",
+      "longitude": 144.962799,
+      "latitude": -37.810466,
+      "title": "Melbourne Central Platinum",
+      "slug": "/clubs/melbourne-central-platinum/",
+      "clubId": "45b4263e-7633-4578-9934-1f765c1723ad",
+      "address": {
+        "street1": "Shop 4m1 Melbourne Central 211 Latrobe Street",
+        "street2": null,
+        "suburb": "Melbourne",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Massage",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T10:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0285784800",
+      "longitude": 151.010407,
+      "latitude": -34.0165492,
+      "title": "Menai",
+      "slug": "/clubs/menai/",
+      "clubId": "78de7b2a-ce1f-452e-891b-ada66a7d4560",
+      "address": {
+        "street1": "Level 1, Menai Central Shopping Centre, Cnr Old Illawarra Road &, Menai Road",
+        "street2": null,
+        "suburb": "Menai",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2234",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cycle Studio",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Free Wifi",
+        "Barre",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T12:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T12:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [],
+      "clubVideos": []
+    },
+    {
+      "phone": "0284010800",
+      "longitude": 151.303222,
+      "latitude": -33.678626,
+      "title": "Mona Vale Platinum",
+      "slug": "/clubs/mona-vale-platinum/",
+      "clubId": "4640ba63-74b2-453a-a27e-716b0f87b2a2",
+      "address": {
+        "street1": "Level 1, Pittwater Place Shopping Centre, 10 Park Street",
+        "street2": null,
+        "suburb": "Mona Vale",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2103",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Dedicated Stretching Area",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Gym Kit",
+        "Massage",
+        "Sauna",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy",
+        "Personal Training Campus AIPT"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1DgRRz5kSWmnmGtoHP6jYD/17cfc9fb5a326e3ff6c7c83a1331e14c/IMG_8264__2_.jpeg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0289693700",
+      "longitude": 151.240251,
+      "latitude": -33.824493,
+      "title": "Mosman Platinum",
+      "slug": "/clubs/mosman-platinum/",
+      "clubId": "84d25d84-a5f0-4661-a723-439bf8f2a4b0",
+      "address": {
+        "street1": "555 Military Road",
+        "street2": null,
+        "suburb": "Mosman",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2088",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Dance School",
+        "Dedicated Stretching Area",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Massage",
+        "Barre",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0280645900",
+      "longitude": 151.178471,
+      "latitude": -33.898133,
+      "title": "Newtown",
+      "slug": "/clubs/newtown/",
+      "clubId": "e0aa4d46-27a8-4b87-a567-abe71bded2c4",
+      "address": {
+        "street1": "Shop 7, 330 King Street",
+        "street2": null,
+        "suburb": "Newtown",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2042",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Free Wifi",
+        "Sauna",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T12:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T12:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [],
+      "clubVideos": []
+    },
+    {
+      "phone": "0290331200",
+      "longitude": 151.088225,
+      "latitude": -33.863322,
+      "title": "North Strathfield",
+      "slug": "/clubs/north-strathfield/",
+      "clubId": "c37407f4-3e88-4a33-9671-891fe4dacc84",
+      "address": {
+        "street1": "Level 3, 22 George Street",
+        "street2": null,
+        "suburb": "North Strathfield",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2137",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cafe",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Gym Kit",
+        "Massage",
+        "Sauna",
+        "Express Training",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/5YRAYmRNyuEpHRFtxLi2hN/c9290c2279068bde06d5d7dea5e81c98/Reform-Pilates-Now-Open-Club-Page-Banner-1800X580.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0296401500",
+      "longitude": 151.207516,
+      "latitude": -33.839031,
+      "title": "North Sydney Elizabeth Pl",
+      "slug": "/clubs/north-sydney-elizabeth-pl/",
+      "clubId": "c71c174c-0389-4e17-a57b-33710ab780d4",
+      "address": {
+        "street1": "L3-5/1 Elizabeth Plaza",
+        "street2": null,
+        "suburb": "North Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2060",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0282633000",
+      "longitude": 151.207194,
+      "latitude": -33.872954,
+      "title": "Park St Platinum",
+      "slug": "/clubs/park-st-platinum/",
+      "clubId": "04111310-1b01-4176-9244-d81af2b39c97",
+      "address": {
+        "street1": "Level 1, The Galeries, 500 George St",
+        "street2": null,
+        "suburb": "Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Sauna",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0288448700",
+      "longitude": 151.001924,
+      "latitude": -33.815096,
+      "title": "Parramatta",
+      "slug": "/clubs/parramatta/",
+      "clubId": "63b9a0b6-5e6a-4eb5-a8ca-ca75356bd1fe",
+      "address": {
+        "street1": "57 Macquarie Street",
+        "street2": null,
+        "suburb": "Parramatta",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2150",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aromatherapy",
+        "Beauty Room",
+        "Cafe",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Ladies Only Zone",
+        "Massage",
+        "Sauna",
+        "Boxing Studio",
+        "Express Training",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Monsoon Shower",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0284017000",
+      "longitude": 151.07056,
+      "latitude": -33.738932,
+      "title": "Pennant Hills",
+      "slug": "/clubs/pennant-hills/",
+      "clubId": "6b9c2c69-24fc-40f2-8445-bdc79771606f",
+      "address": {
+        "street1": "358 Pennant Hills Road",
+        "street2": null,
+        "suburb": "Pennant Hills",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2120",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Massage",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T17:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T17:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0283301700",
+      "longitude": 151.208043,
+      "latitude": -33.871854,
+      "title": "Pitt St Platinum",
+      "slug": "/clubs/pitt-st-platinum/",
+      "clubId": "fd37dae8-b7ea-4d11-b30d-330cdf13eea4",
+      "address": {
+        "street1": "255 Pitt Street",
+        "street2": null,
+        "suburb": "Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Free Wifi",
+        "Massage",
+        "Sauna",
+        "Barre",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Relaxation Zone",
+        "Steam Room"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0386654000",
+      "longitude": 144.966741,
+      "latitude": -37.809877,
+      "title": "QV Platinum",
+      "slug": "/clubs/qv-platinum/",
+      "clubId": "c26461ee-653d-4c70-9791-ad4f1ba2820b",
+      "address": {
+        "street1": "Cnr Lonsdale & Russell Street",
+        "street2": null,
+        "suburb": "Melbourne",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T10:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4bbCfaHLQbRF9EZQKi7jY6/a57415c76c3d2df1dbea06e3dd67d6e6/IMG-6886__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1YBUZU6QR3hjJqYXnk7w5K/15e9c6987e1c47f0873bdbc33eb8f6a0/IMG-6881.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/zrkXhZifG9TW5r36y5TvE/c3474abfecb45bcd2ab0e578d50b58be/IMG-6877.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0283837100",
+      "longitude": 151.241076,
+      "latitude": -33.914856,
+      "title": "Randwick Platinum",
+      "slug": "/clubs/randwick-platinum/",
+      "clubId": "ce51e10c-1fa3-4527-b8b8-ec23bba623aa",
+      "address": {
+        "street1": "Royal Randwick Shopping Centre 73 Belmore Road",
+        "street2": null,
+        "suburb": "Randwick",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2031",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Gym Kit",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy",
+        "Personal Training Campus AIPT"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0384207100",
+      "longitude": 144.99567183930023,
+      "latitude": -37.828329091666035,
+      "title": "Richmond Platinum",
+      "slug": "/clubs/richmond-platinum/",
+      "clubId": "fade8b16-4ef7-4a96-a9fb-8cd7a89f50f3",
+      "address": {
+        "street1": "2-4 William Street",
+        "street2": null,
+        "suburb": "Cremorne",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3121",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Gym Kit",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Pilates",
+        "Relaxation Zone",
+        "Steam Room",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T17:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": false,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2Dsf5jYxUts9TXm4wKjUY8/6ff486c8580a1b26dcdf70a6931df26f/Fitness-First-Richmond-Platinum-Gym-Melbourne-Gym-Floor.jpg"
+        }
+      ],
+      "clubVideos": [
+        {
+          "videoUrl": "https://videos.ctfassets.net/29v1tt20s4yg/39IRlywDlMAFpkmQjktUCO/cc02391213eae32003099fd3bddd09cd/Fitness_First_Melbourne_Hero_Web_Banner-1800x580.mp4"
+        }
+      ]
+    },
+    {
+      "phone": "0284378100",
+      "longitude": 151.1959934,
+      "latitude": -33.824821,
+      "title": "St Leonards Platinum",
+      "slug": "/clubs/st-leonards-platinum/",
+      "clubId": "a2fc03e5-0435-4386-b979-2a64b77485b6",
+      "address": {
+        "street1": "55 Christie Street",
+        "street2": null,
+        "suburb": "St Leonards",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2065",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aqua Aerobics",
+        "Cycle Studio",
+        "Dedicated Stretching Area",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Free Wifi",
+        "Gym Kit",
+        "Massage",
+        "Swim School",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy",
+        "Personal Training Campus AIPT"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:30:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T09:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0285436100",
+      "longitude": 151.105104,
+      "latitude": -34.008075,
+      "title": "Sylvania",
+      "slug": "/clubs/sylvania/",
+      "clubId": "4503dee4-83f7-453d-bc34-76ca5843e461",
+      "address": {
+        "street1": "Cnr Port Hacking Road & Princes Highway",
+        "street2": null,
+        "suburb": "Sylvania",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2224",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aqua Aerobics",
+        "Beauty Room",
+        "Cafe",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Swim School",
+        "Express Training",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Nutritionist",
+        "Pilates",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:30:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0292253900",
+      "longitude": 151.208304,
+      "latitude": -33.868889,
+      "title": "The Zone Platinum",
+      "slug": "/clubs/the-zone-platinum/",
+      "clubId": "92773b97-304a-44d5-93d7-b581556a6a6d",
+      "address": {
+        "street1": "175 Pitt Street",
+        "street2": null,
+        "suburb": "Sydney",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2000",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Sauna",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Steam Room"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Closed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Closed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3IrWKrZOY4mT60OLjJs9CN/b4b195ef5d95b9d04d4858b25249da96/THEZONE.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0280717600",
+      "longitude": 151.105252,
+      "latitude": -33.812959,
+      "title": "Top Ryde Platinum",
+      "slug": "/clubs/top-ryde-platinum/",
+      "clubId": "6a74eceb-77b9-4075-ad56-8da51aa8360a",
+      "address": {
+        "street1": "Top Ryde Shopping Centre L3-4 Cnr Devlin Street And Blaxland Road",
+        "street2": null,
+        "suburb": "Ryde",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2112",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aqua Aerobics",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Internet Kiosk",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Swim School",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Yoga"
+      ],
+      "is24Hours": false,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": false
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/72UKWdqGXmvTNtF9M2Km3I/111aa573a9b3cc4e08afaa49ffbccb2c/Fitness-First-Reform-Pilates-Now-Open-1800x580.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/51870a37d22656705bb9a9168f51503e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.png"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0384159400",
+      "longitude": 145.011393,
+      "latitude": -37.811805,
+      "title": "Victoria Gardens",
+      "slug": "/clubs/victoria-gardens/",
+      "clubId": "ea71b228-edac-4968-93f0-f7e43d41f1bd",
+      "address": {
+        "street1": "Victoria Gardens Shopping Centre Shop Mm3, 620 Victoria Street",
+        "street2": null,
+        "suburb": "Richmond",
+        "city": null,
+        "state": "Vic",
+        "postcode": "3121",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T13:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/MB6K1tNCwQancRV2fqRkb/824d8d91dc115bfa70d30eb990ca33fd/gym_floor_4.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6Xh5KoeVxBwIMCDhA1wl3s/787290e1b3157d51ee80681e84c30dcd/gym_floor_2__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6tmwAFMaEOcm6VM9c9i4fZ/04e950ccfc91bb513cea54e251e8a115/gym_floor_1.jpg"
+        }
+      ],
+      "clubVideos": []
+    },
+    {
+      "phone": "0285560600",
+      "longitude": 151.1612010689,
+      "latitude": -34.0430793888264,
+      "title": "Wanda",
+      "slug": "/clubs/wanda/",
+      "clubId": "1389c0b9-96d7-48f8-acf7-c51d972aefc4",
+      "address": {
+        "street1": "2 Marine Esplanade",
+        "street2": null,
+        "suburb": "Cronulla",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2230",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Bike Racks",
+        "Cardio Theatre",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Loaded Weights",
+        "Group Exercises",
+        "Personal Training",
+        "Freestyle",
+        "Yoga"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T11:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Unstaffed",
+            "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [],
+      "clubVideos": []
+    },
+    {
+      "phone": "0289626000",
+      "longitude": 151.201658,
+      "latitude": -33.788047,
+      "title": "Willoughby Platinum",
+      "slug": "/clubs/willoughby-platinum/",
+      "clubId": "c4cbb369-f805-4e84-bf69-f64e953934b2",
+      "address": {
+        "street1": "350 Eastern Valley Way",
+        "street2": null,
+        "suburb": "Willoughby",
+        "city": null,
+        "state": "Nsw",
+        "postcode": "2068",
+        "country": "Australia"
+      },
+      "facilities": [
+        "Aqua Aerobics",
+        "Beauty Room",
+        "Bike Racks",
+        "Cardio Theatre",
+        "Cycle Studio",
+        "Dedicated Stretching Area",
+        "Disabled Access",
+        "Free Parking",
+        "Free Weights",
+        "Gym Floor",
+        "Hot Yoga",
+        "Loaded Weights",
+        "Reform Pilates",
+        "Free Wifi",
+        "Massage",
+        "Sauna",
+        "Swim School",
+        "Barre",
+        "Group Exercises",
+        "Lounge Area",
+        "Personal Training",
+        "Swimming Pool",
+        "Freestyle",
+        "Pilates",
+        "Steam Room",
+        "Yoga",
+        "Physiotherapy"
+      ],
+      "is24Hours": true,
+      "isDigitalAccess": false,
+      "openDate": "0001-01-01T00:00:00",
+      "schedule": {
+        "todayName": "Today",
+        "todayDate": "2025-10-24",
+        "scheduleDays": [
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Saturday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Sunday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          }
+        ],
+        "isOpen24Hours": true
+      },
+      "isPreSales": false,
+      "isOnEcomm": true,
+      "isPTPacksOnSale": true,
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2gGOmhk5HoEUFjXrpjVBtY/d8d12a25ac597a48576249aaf41472c8/Willo_11__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6h32ieM5ADVMque4vVHwWj/338e4bfd69683e987964eb0aa18d6816/Willo_8_.jpg"
+        }
+      ],
+      "clubVideos": []
+    }
+  ],
+  "clubNames": []
+}
