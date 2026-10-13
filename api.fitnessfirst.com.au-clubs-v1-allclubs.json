@@ -1,7 +1,7 @@
 {
-  "searchTime": "2026-10-12T15:34:45.9567293+00:00",
+  "searchTime": "2026-10-13T14:17:27.8375506+00:00",
   "hasResult": true,
-  "count": 46,
+  "count": 45,
   "clubs": [
     {
       "phone": "0395264550",
@@ -828,90 +828,6 @@
           "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/NnT3eE3fyQsWHTnp2vxie/663a0525f1e2a91b8bafe3ad01d9f846/Spring_St_3.jpg"
         }
       ],
-      "clubVideos": []
-    },
-    {
-      "phone": null,
-      "longitude": 144.969099,
-      "latitude": -37.812377,
-      "title": "Bourke St",
-      "slug": "/clubs/bourke-st/",
-      "clubId": "a5755a41-3812-4e84-a85e-b764ba05846f",
-      "address": {
-        "street1": "138 Bourke Street",
-        "street2": null,
-        "suburb": "Melbourne",
-        "city": null,
-        "state": "Vic",
-        "postcode": "3000",
-        "country": "Australia"
-      },
-      "facilities": [
-        "Ski Erg"
-      ],
-      "is24Hours": true,
-      "isDigitalAccess": false,
-      "openDate": "0001-01-01T00:00:00",
-      "schedule": {
-        "todayName": "Today",
-        "todayDate": "2026-10-13",
-        "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          },
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Wednesday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          },
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          },
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          },
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Saturday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          },
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Sunday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          },
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Monday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Unstaffed",
-            "scheduledTimes": []
-          }
-        ],
-        "isOpen24Hours": true
-      },
-      "isPreSales": true,
-      "isOnEcomm": true,
-      "isPTPacksOnSale": false,
-      "clubPhotos": [],
       "clubVideos": []
     },
     {
