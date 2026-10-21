@@ -1,10 +1,10 @@
 {
-  "searchTime": "2026-10-20T11:44:49.3867997+00:00",
+  "searchTime": "2026-10-21T11:56:39.8988561+00:00",
   "hasResult": true,
   "count": 45,
   "clubs": [
     {
-      "phone": "0395264550",
+      "phone": "395264550",
       "longitude": 144.99384,
       "latitude": -37.87007,
       "title": "Balaclava Platinum",
@@ -14,7 +14,7 @@
         "street1": "21-23 William Street",
         "street2": null,
         "suburb": "Balaclava",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3183",
         "country": "Australia"
@@ -43,20 +43,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -128,6 +116,18 @@
                 "endTime": "0001-01-01T21:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -149,7 +149,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0280933200",
+      "phone": "280933200",
       "longitude": 151.264343,
       "latitude": -33.793169,
       "title": "Balgowlah Platinum",
@@ -159,7 +159,7 @@
         "street1": "Shop 67 197-215 Condamine Street",
         "street2": null,
         "suburb": "Balgowlah",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2093",
         "country": "Australia"
@@ -184,20 +184,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -269,6 +257,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -284,7 +284,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0283628800",
+      "phone": "283628800",
       "longitude": 151.202142,
       "latitude": -33.863405,
       "title": "Barangaroo Titanium",
@@ -294,7 +294,7 @@
         "street1": "Tower 1 Level 2 100 Barangaroo Avenue, lift access via Scotch Row",
         "street2": null,
         "suburb": "Barangaroo",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -319,20 +319,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -394,6 +382,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -409,7 +409,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0395597400",
+      "phone": "395597400",
       "longitude": 145.0312471,
       "latitude": -37.954688,
       "title": "Bayside Platinum",
@@ -419,7 +419,7 @@
         "street1": "241-245 Bay Road",
         "street2": null,
         "suburb": "Highett",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3190",
         "country": "Australia"
@@ -453,20 +453,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -538,6 +526,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -556,7 +556,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0282150200",
+      "phone": "282150200",
       "longitude": 151.2083024,
       "latitude": -33.864454,
       "title": "Bond St Platinum",
@@ -566,7 +566,7 @@
         "street1": "20 Bond Street",
         "street2": null,
         "suburb": "Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -592,20 +592,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -667,6 +655,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -688,7 +688,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0283835800",
+      "phone": "283835800",
       "longitude": 151.249246,
       "latitude": -33.892363,
       "title": "Bondi Spring St Platinum",
@@ -698,7 +698,7 @@
         "street1": "110 Spring Street",
         "street2": null,
         "suburb": "Bondi Junction",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2022",
         "country": "Australia"
@@ -725,20 +725,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -810,6 +798,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -831,7 +831,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0399452600",
+      "phone": "399452600",
       "longitude": 145.011903,
       "latitude": -37.909254,
       "title": "Brighton",
@@ -841,7 +841,7 @@
         "street1": "531 Nepean Highway",
         "street2": null,
         "suburb": "Brighton East",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3187",
         "country": "Australia"
@@ -876,20 +876,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -956,6 +944,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -971,9 +971,9 @@
       "clubVideos": []
     },
     {
-      "phone": "0262215901",
-      "longitude": 149.133251807342,
-      "latitude": -35.2802190894515,
+      "phone": "262215901",
+      "longitude": 149.1332518,
+      "latitude": -35.28021909,
       "title": "Canberra",
       "slug": "/clubs/canberra/",
       "clubId": "0122e3ae-31c1-4df9-8671-3c62e6584e89",
@@ -981,7 +981,7 @@
         "street1": "Shop EL01, Canberra Centre, Bunda Street",
         "street2": null,
         "suburb": "Canberra",
-        "city": null,
+        "city": "",
         "state": "Act",
         "postcode": "2608",
         "country": "Australia"
@@ -1008,20 +1008,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1093,6 +1081,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1108,7 +1108,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0288459700",
+      "phone": "288459700",
       "longitude": 151.052069,
       "latitude": -33.777821,
       "title": "Carlingford",
@@ -1118,7 +1118,7 @@
         "street1": "Level 3, Carlingford Court Cnr Carlingford & Pennant Hils Road",
         "street2": null,
         "suburb": "Carlingford",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2118",
         "country": "Australia"
@@ -1149,20 +1149,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1234,6 +1222,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1249,7 +1249,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0297621600",
+      "phone": "297621600",
       "longitude": 151.0049599,
       "latitude": -33.732819,
       "title": "Castle Hill",
@@ -1259,7 +1259,7 @@
         "street1": "Shop 701, Level 3, Castle Towers",
         "street2": null,
         "suburb": "Castle Hill",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2154",
         "country": "Australia"
@@ -1296,20 +1296,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1381,6 +1369,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1399,7 +1399,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0280933249",
+      "phone": "280933249",
       "longitude": 151.182188,
       "latitude": -33.795796,
       "title": "Chatswood Platinum",
@@ -1409,7 +1409,7 @@
         "street1": "24 Endeavour Street",
         "street2": null,
         "suburb": "Chatswood",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2067",
         "country": "Australia"
@@ -1445,20 +1445,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1530,6 +1518,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1552,7 +1552,7 @@
       ]
     },
     {
-      "phone": "0285560400",
+      "phone": "285560400",
       "longitude": 151.1413244,
       "latitude": -34.039511,
       "title": "Cronulla",
@@ -1562,7 +1562,7 @@
         "street1": "447 Captain Cook Drive",
         "street2": null,
         "suburb": "Woolooware",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2230",
         "country": "Australia"
@@ -1594,20 +1594,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1679,6 +1667,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1697,7 +1697,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0281164200",
+      "phone": "281164200",
       "longitude": 151.214072,
       "latitude": -33.878575,
       "title": "Darlinghurst Platinum",
@@ -1707,7 +1707,7 @@
         "street1": "Level 2, 63 Oxford Street",
         "street2": null,
         "suburb": "Darlinghurst",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2010",
         "country": "Australia"
@@ -1737,20 +1737,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1822,6 +1810,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1837,7 +1837,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0262219600",
+      "phone": "262219600",
       "longitude": 149.10763,
       "latitude": -35.315523,
       "title": "Deakin",
@@ -1847,7 +1847,7 @@
         "street1": "81 Macgregor Street",
         "street2": null,
         "suburb": "Deakin",
-        "city": null,
+        "city": "",
         "state": "Act",
         "postcode": "2600",
         "country": "Australia"
@@ -1873,20 +1873,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1958,6 +1946,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1973,7 +1973,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0390261600",
+      "phone": "390261600",
       "longitude": 145.126166,
       "latitude": -37.784626,
       "title": "Doncaster",
@@ -1983,7 +1983,7 @@
         "street1": "Tenancy 1154, Westfield Shopping Centre, 4/619 Doncaster Road",
         "street2": null,
         "suburb": "Doncaster",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3108",
         "country": "Australia"
@@ -2010,20 +2010,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2095,6 +2083,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2110,9 +2110,9 @@
       "clubVideos": []
     },
     {
-      "phone": "0299213200",
-      "longitude": 151.24391844567234,
-      "latitude": -33.878323405929294,
+      "phone": "299213200",
+      "longitude": 151.2439184,
+      "latitude": -33.87832341,
       "title": "Double Bay",
       "slug": "/clubs/double-bay/",
       "clubId": "ee112069-cb48-4f3b-9f1b-82ff1d25a121",
@@ -2120,7 +2120,7 @@
         "street1": "Level 1, Kiaora Place Shopping Centre, 1 Kiaora Road",
         "street2": null,
         "suburb": "Double Bay",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2028",
         "country": "Australia"
@@ -2144,15 +2144,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Closed",
-            "scheduledTimes": []
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2194,6 +2187,13 @@
             "publicHolidayName": null,
             "timeOverrideText": "Closed",
             "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Closed",
+            "scheduledTimes": []
           }
         ],
         "isOpen24Hours": false
@@ -2212,7 +2212,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0243671000",
+      "phone": "243671000",
       "longitude": 151.383648,
       "latitude": -33.437893,
       "title": "Erina Fair",
@@ -2222,7 +2222,7 @@
         "street1": "Erina Fair Shopping Centre, Fitness First Tenancy, Karalta Road",
         "street2": null,
         "suburb": "Erina",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2250",
         "country": "Australia"
@@ -2257,20 +2257,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2342,6 +2330,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2357,7 +2357,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0396164400",
+      "phone": "396164400",
       "longitude": 144.965361,
       "latitude": -37.817971,
       "title": "Flinders St Platinum",
@@ -2367,7 +2367,7 @@
         "street1": "Level 2 & 3, 276 Flinders Street",
         "street2": null,
         "suburb": "Melbourne",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3000",
         "country": "Australia"
@@ -2391,20 +2391,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2476,6 +2464,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2497,7 +2497,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0286696300",
+      "phone": "286696300",
       "longitude": 151.207051,
       "latitude": -33.863885,
       "title": "George St Platinum",
@@ -2507,7 +2507,7 @@
         "street1": "259 George Street",
         "street2": null,
         "suburb": "Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -2538,20 +2538,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2623,6 +2611,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2641,7 +2641,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0388474800",
+      "phone": "388474800",
       "longitude": 145.147982,
       "latitude": -37.876695,
       "title": "Glen Waverley",
@@ -2651,7 +2651,7 @@
         "street1": "1/3 Coleman Parade",
         "street2": null,
         "suburb": "Glen Waverley",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3150",
         "country": "Australia"
@@ -2693,20 +2693,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2778,6 +2766,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2796,7 +2796,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0284458400",
+      "phone": "284458400",
       "longitude": 151.103121,
       "latitude": -33.70365,
       "title": "Hornsby",
@@ -2806,7 +2806,7 @@
         "street1": "Westfield Shopping Centre, Ground Floor, 10 Muriel Street",
         "street2": null,
         "suburb": "Hornsby",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2077",
         "country": "Australia"
@@ -2835,20 +2835,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2920,6 +2908,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2941,7 +2941,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0281143600",
+      "phone": "281143600",
       "longitude": 151.222551,
       "latitude": -33.87521,
       "title": "Kings Cross Platinum",
@@ -2951,7 +2951,7 @@
         "street1": "Level 8, Kingsgate Building 82-94 Darlinghurst Road",
         "street2": null,
         "suburb": "Potts Point",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2011",
         "country": "Australia"
@@ -2979,20 +2979,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3056,6 +3044,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -3086,7 +3086,7 @@
       ]
     },
     {
-      "phone": "0290027600",
+      "phone": "290027600",
       "longitude": 151.11954,
       "latitude": -33.776436,
       "title": "Macquarie",
@@ -3096,7 +3096,7 @@
         "street1": "Macquarie Shopping Centre, Shop 451, 109 Waterloo Road",
         "street2": null,
         "suburb": "North Ryde",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2113",
         "country": "Australia"
@@ -3123,20 +3123,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3208,6 +3196,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3223,7 +3223,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0399355800",
+      "phone": "399355800",
       "longitude": 145.082928,
       "latitude": -37.877309,
       "title": "Malvern Valley",
@@ -3233,7 +3233,7 @@
         "street1": "Building 6 - Holmesglen Tafe, Cnr Waverley & Batesford Road",
         "street2": null,
         "suburb": "Chadstone",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3148",
         "country": "Australia"
@@ -3264,20 +3264,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3349,6 +3337,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3364,7 +3364,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0281173300",
+      "phone": "281173300",
       "longitude": 151.204695,
       "latitude": -33.870825,
       "title": "Market St Platinum",
@@ -3374,7 +3374,7 @@
         "street1": "2 Market Street",
         "street2": null,
         "suburb": "Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -3403,20 +3403,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3478,6 +3466,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3493,7 +3493,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0286690200",
+      "phone": "286690200",
       "longitude": 151.238995,
       "latitude": -33.941064,
       "title": "Maroubra",
@@ -3503,7 +3503,7 @@
         "street1": "Shop F07-F15, Level 1, Pacific Square Shopping Centre, 737 Anzac Parade",
         "street2": null,
         "suburb": "Maroubra",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2035",
         "country": "Australia"
@@ -3532,20 +3532,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3609,6 +3597,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -3638,7 +3638,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0399352600",
+      "phone": "399352600",
       "longitude": 144.962799,
       "latitude": -37.810466,
       "title": "Melbourne Central Platinum",
@@ -3648,7 +3648,7 @@
         "street1": "Shop 4m1 Melbourne Central 211 Latrobe Street",
         "street2": null,
         "suburb": "Melbourne",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3000",
         "country": "Australia"
@@ -3676,20 +3676,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3761,6 +3749,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3776,7 +3776,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0285784800",
+      "phone": "285784800",
       "longitude": 151.010407,
       "latitude": -34.0165492,
       "title": "Menai",
@@ -3786,7 +3786,7 @@
         "street1": "Level 1, Menai Central Shopping Centre, Cnr Old Illawarra Road &, Menai Road",
         "street2": null,
         "suburb": "Menai",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2234",
         "country": "Australia"
@@ -3810,20 +3810,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3895,6 +3883,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3910,7 +3910,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0284010800",
+      "phone": "284010800",
       "longitude": 151.303222,
       "latitude": -33.678626,
       "title": "Mona Vale Platinum",
@@ -3920,7 +3920,7 @@
         "street1": "Level 1, Pittwater Place Shopping Centre, 10 Park Street",
         "street2": null,
         "suburb": "Mona Vale",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2103",
         "country": "Australia"
@@ -3959,20 +3959,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4044,6 +4032,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4059,7 +4059,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0289693700",
+      "phone": "289693700",
       "longitude": 151.240251,
       "latitude": -33.824493,
       "title": "Mosman Platinum",
@@ -4069,7 +4069,7 @@
         "street1": "555 Military Road",
         "street2": null,
         "suburb": "Mosman",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2088",
         "country": "Australia"
@@ -4102,20 +4102,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4187,6 +4175,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4206,7 +4206,7 @@
       ]
     },
     {
-      "phone": "0280645900",
+      "phone": "280645900",
       "longitude": 151.178471,
       "latitude": -33.898133,
       "title": "Newtown",
@@ -4216,7 +4216,7 @@
         "street1": "Shop 7, 330 King Street",
         "street2": null,
         "suburb": "Newtown",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2042",
         "country": "Australia"
@@ -4243,20 +4243,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4328,6 +4316,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4343,7 +4343,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0290331200",
+      "phone": "290331200",
       "longitude": 151.088225,
       "latitude": -33.863322,
       "title": "North Strathfield",
@@ -4353,7 +4353,7 @@
         "street1": "Level 3, 22 George Street",
         "street2": null,
         "suburb": "North Strathfield",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2137",
         "country": "Australia"
@@ -4386,20 +4386,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4471,6 +4459,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4486,7 +4486,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0296401500",
+      "phone": "296401500",
       "longitude": 151.207516,
       "latitude": -33.839031,
       "title": "North Sydney Elizabeth Pl",
@@ -4496,7 +4496,7 @@
         "street1": "L3-5/1 Elizabeth Plaza",
         "street2": null,
         "suburb": "North Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2060",
         "country": "Australia"
@@ -4523,20 +4523,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4598,6 +4586,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4613,7 +4613,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0282633000",
+      "phone": "282633000",
       "longitude": 151.207194,
       "latitude": -33.872954,
       "title": "Park St Platinum",
@@ -4623,7 +4623,7 @@
         "street1": "Level 1, The Galeries, 500 George St",
         "street2": null,
         "suburb": "Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -4654,20 +4654,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4729,6 +4717,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4744,7 +4744,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0288448700",
+      "phone": "288448700",
       "longitude": 151.001924,
       "latitude": -33.815096,
       "title": "Parramatta",
@@ -4754,7 +4754,7 @@
         "street1": "57 Macquarie Street",
         "street2": null,
         "suburb": "Parramatta",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2150",
         "country": "Australia"
@@ -4789,20 +4789,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4874,6 +4862,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4889,7 +4889,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0284017000",
+      "phone": "284017000",
       "longitude": 151.07056,
       "latitude": -33.738932,
       "title": "Pennant Hills",
@@ -4899,7 +4899,7 @@
         "street1": "358 Pennant Hills Road",
         "street2": null,
         "suburb": "Pennant Hills",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2120",
         "country": "Australia"
@@ -4923,20 +4923,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5008,6 +4996,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5023,7 +5023,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0283301700",
+      "phone": "283301700",
       "longitude": 151.208043,
       "latitude": -33.871854,
       "title": "Pitt St Platinum",
@@ -5033,7 +5033,7 @@
         "street1": "255 Pitt Street",
         "street2": null,
         "suburb": "Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -5060,20 +5060,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5145,6 +5133,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5160,7 +5160,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0386654000",
+      "phone": "386654000",
       "longitude": 144.966741,
       "latitude": -37.809877,
       "title": "QV Platinum",
@@ -5170,7 +5170,7 @@
         "street1": "Cnr Lonsdale & Russell Street",
         "street2": null,
         "suburb": "Melbourne",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3000",
         "country": "Australia"
@@ -5195,20 +5195,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5280,6 +5268,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5301,7 +5301,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0283837100",
+      "phone": "283837100",
       "longitude": 151.241076,
       "latitude": -33.914856,
       "title": "Randwick Platinum",
@@ -5311,7 +5311,7 @@
         "street1": "Royal Randwick Shopping Centre 73 Belmore Road",
         "street2": null,
         "suburb": "Randwick",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2031",
         "country": "Australia"
@@ -5344,20 +5344,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5429,6 +5417,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5444,9 +5444,9 @@
       "clubVideos": []
     },
     {
-      "phone": "0384207100",
-      "longitude": 144.99567183930023,
-      "latitude": -37.828329091666035,
+      "phone": "384207100",
+      "longitude": 144.9956718,
+      "latitude": -37.82832909,
       "title": "Richmond Platinum",
       "slug": "/clubs/richmond-platinum/",
       "clubId": "fade8b16-4ef7-4a96-a9fb-8cd7a89f50f3",
@@ -5454,7 +5454,7 @@
         "street1": "2-4 William Street",
         "street2": null,
         "suburb": "Cremorne",
-        "city": null,
+        "city": "",
         "state": "Vic",
         "postcode": "3121",
         "country": "Australia"
@@ -5483,20 +5483,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5568,6 +5556,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5586,7 +5586,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0284378100",
+      "phone": "284378100",
       "longitude": 151.1959934,
       "latitude": -33.824821,
       "title": "St Leonards Platinum",
@@ -5596,7 +5596,7 @@
         "street1": "55 Christie Street",
         "street2": null,
         "suburb": "St Leonards",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2065",
         "country": "Australia"
@@ -5630,20 +5630,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5715,6 +5703,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5730,7 +5730,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0285436100",
+      "phone": "285436100",
       "longitude": 151.105104,
       "latitude": -34.008075,
       "title": "Sylvania",
@@ -5740,7 +5740,7 @@
         "street1": "Cnr Port Hacking Road & Princes Highway",
         "street2": null,
         "suburb": "Sylvania",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2224",
         "country": "Australia"
@@ -5774,20 +5774,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5859,6 +5847,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5874,7 +5874,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0292253900",
+      "phone": "292253900",
       "longitude": 151.208304,
       "latitude": -33.868889,
       "title": "The Zone Platinum",
@@ -5884,7 +5884,7 @@
         "street1": "175 Pitt Street",
         "street2": null,
         "suburb": "Sydney",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2000",
         "country": "Australia"
@@ -5901,20 +5901,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5976,6 +5964,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5991,7 +5991,7 @@
       "clubVideos": []
     },
     {
-      "phone": "0280717600",
+      "phone": "280717600",
       "longitude": 151.105252,
       "latitude": -33.812959,
       "title": "Top Ryde Platinum",
@@ -6001,7 +6001,7 @@
         "street1": "Top Ryde Shopping Centre L3-4 Cnr Devlin Street And Blaxland Road",
         "street2": null,
         "suburb": "Ryde",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2112",
         "country": "Australia"
@@ -6029,20 +6029,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -6114,6 +6102,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -6136,7 +6136,7 @@
       ]
     },
     {
-      "phone": "0289626000",
+      "phone": "289626000",
       "longitude": 151.201658,
       "latitude": -33.788047,
       "title": "Willoughby Platinum",
@@ -6146,7 +6146,7 @@
         "street1": "350 Eastern Valley Way",
         "street2": null,
         "suburb": "Willoughby",
-        "city": null,
+        "city": "",
         "state": "Nsw",
         "postcode": "2068",
         "country": "Australia"
@@ -6185,20 +6185,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-10-20",
+        "todayDate": "2026-10-21",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -6262,6 +6250,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
