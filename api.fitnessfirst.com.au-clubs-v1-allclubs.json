@@ -1,5 +1,5 @@
 {
-  "searchTime": "2026-11-04T14:38:32.1500531+00:00",
+  "searchTime": "2026-11-05T14:43:08.7639625+00:00",
   "hasResult": true,
   "count": 45,
   "clubs": [
@@ -43,20 +43,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -128,6 +116,18 @@
                 "endTime": "0001-01-01T21:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -135,7 +135,17 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7IVFcCjvK3bMlY9P63YB8b/5c1921fe5b83d9b95238aef7064c2bd6/Fitness-First-Balaclava-Platinum-Revive-Recovery-Video-Thumbnail-1800x580.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/16mtBfEUzmj1qdw8Sha9NC/fd25581842b93873f3f1b6d368e70259/Fitness-First-Balaclava-Platinum-Video-Thumbnail-1800x580.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/C0HDy3gVCy5fretqVria9/f904154fd8bcb0abeb06a5ccc7442b3d/Fitness-First-Balaclava-Platinum-Gym-Melbourne-Gym-Floor1.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -174,20 +184,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -259,6 +257,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -305,20 +315,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -372,6 +370,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -435,20 +445,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -520,6 +518,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -527,7 +537,14 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4dfm1yPDmkLZIdFtysPl8t/0c652c0478fc6a6891bc3bb3a600b3ce/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -567,20 +584,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -642,6 +647,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -649,7 +666,17 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4jP569uXgP5vsEzGRZXe2x/ea3bf180cc5e0e9e15d23dcc5425bbf6/HD-IMGL1929-edited__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4WvWZjKYvb8zoylbIs05rD/64267635d9ad2c0564fcaf216d839843/thumbnail_20221228_144311__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7nVqffm94Mvx1joOg5CKSv/1d3feb889447e05da4d110bdc22a9777/20221228_144217.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -690,20 +717,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -767,6 +782,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -831,20 +858,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -911,6 +926,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -918,7 +945,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -959,20 +990,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1044,6 +1063,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1051,7 +1082,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/52s4J8dnDe50F6pM5ITD9B/a28b316585d80aa8b0420351b30b3175/FFCC-7572__3___1_.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -1062,7 +1097,7 @@
       "slug": "/clubs/carlingford/",
       "clubId": "f8dc15be-58cd-4615-9b26-a3a1f4afbf86",
       "address": {
-        "street1": "Level 3, Carlingford Court Cnr Carlingford & Pennant Hils Road",
+        "street1": "Level 3, Carlingford Court Cnr Carlingford & Pennant Hills Road",
         "street2": null,
         "suburb": "Carlingford",
         "city": "",
@@ -1096,20 +1131,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1181,6 +1204,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1188,7 +1223,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -1239,20 +1278,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1324,6 +1351,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1331,7 +1370,14 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1LoPFdDULvBXZp8z8ElSBp/f3d1c44dda8597290d701231f17735a4/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/116IdmUHiJZGfz90pLt4RE/e51cb29c39c2c7e648199328467a8758/Cardio__1_.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -1381,20 +1427,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1466,6 +1500,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1519,20 +1565,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1604,6 +1638,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1611,7 +1657,14 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -1655,20 +1708,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1740,6 +1781,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1747,7 +1800,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -1787,20 +1844,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -1872,6 +1917,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1879,7 +1936,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -1920,20 +1981,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2005,6 +2054,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2050,15 +2111,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Closed",
-            "scheduledTimes": []
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2100,6 +2154,13 @@
             "publicHolidayName": null,
             "timeOverrideText": "Closed",
             "scheduledTimes": []
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": "Closed",
+            "scheduledTimes": []
           }
         ],
         "isOpen24Hours": false
@@ -2107,7 +2168,14 @@
       "isPreSales": true,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/5GpOStiOXpb8PUMlF9pBRR/9bef109f51d6b297ff36a09a6c594e0b/264489_Fitness_First_Double_Bay_Owned_Asset_18_1800x580.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/39I9p96dKsI1W9a1jGApst/2d1043aac2633497ead10527b370b65a/264489_Fitness_First_Double_Bay_Owned_Asset_19_1800x580.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -2156,20 +2224,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2241,6 +2297,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2248,7 +2316,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -2286,20 +2358,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2371,6 +2431,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2378,7 +2450,17 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6XJROtFRiVAt7ktNyuV5mw/5b142e977ea4530a52a7d91d3bb43f06/IMG_4416_2.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/41SAv1YFRdw27DAKz9SOsE/40cf8853bb5c409807daa9c0b5cd9da3/thumbnail_IMG_4455_2.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2bChJKOW0LUhYnSSWkHtUt/21a53cbc9afa667dda5438aeaa401179/thumbnail_IMG_4437_2.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -2423,20 +2505,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2500,6 +2570,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -2571,20 +2653,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2656,6 +2726,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2663,7 +2745,14 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4dfm1yPDmkLZIdFtysPl8t/0c652c0478fc6a6891bc3bb3a600b3ce/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -2706,20 +2795,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2783,6 +2860,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -2840,20 +2929,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -2925,6 +3002,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2932,8 +3021,19 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
-      "clubVideos": []
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1LoPFdDULvBXZp8z8ElSBp/f3d1c44dda8597290d701231f17735a4/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        }
+      ],
+      "clubVideos": [
+        {
+          "videoUrl": "https://videos.ctfassets.net/29v1tt20s4yg/49Zo4toPD7LGjc3Z0WUZYB/869c8cfd5045ad729d1ae3bfc30375a7/Fitness_First_Kings_X_2Kx1k_V1_No_Audio__1___1___1_.mp4"
+        }
+      ]
     },
     {
       "phone": "290027600",
@@ -2973,20 +3073,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3050,6 +3138,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -3110,20 +3210,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3195,6 +3283,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3202,7 +3302,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -3245,20 +3349,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3320,6 +3412,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3327,7 +3431,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -3370,20 +3478,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3455,6 +3551,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3462,7 +3570,17 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4dfm1yPDmkLZIdFtysPl8t/0c652c0478fc6a6891bc3bb3a600b3ce/UPDATED_NOW_OPEN_CLUB_BANNER__1_.png"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -3504,20 +3622,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3589,6 +3695,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3596,7 +3714,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -3634,20 +3756,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3719,6 +3829,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3726,7 +3848,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -3779,20 +3905,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -3864,6 +3978,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3871,7 +3997,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1DgRRz5kSWmnmGtoHP6jYD/17cfc9fb5a326e3ff6c7c83a1331e14c/IMG_8264__2_.jpeg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -3918,20 +4048,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4003,6 +4121,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4010,8 +4140,16 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
-      "clubVideos": []
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
+      "clubVideos": [
+        {
+          "videoUrl": "https://videos.ctfassets.net/29v1tt20s4yg/1ld1LDjmQYvWmHEuHqy3Xn/7fb24ce546efbb940a7e77f1b1f82ff8/264648_Fitness_First_Revive_Web_Banners_Mosman_2000x1000__1_.mp4"
+        }
+      ]
     },
     {
       "phone": "280645900",
@@ -4051,20 +4189,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4134,6 +4260,18 @@
               {
                 "startTime": "0001-01-01T06:00:00.0000000",
                 "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
           }
@@ -4190,20 +4328,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4275,6 +4401,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4323,20 +4461,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4398,6 +4524,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4405,7 +4543,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -4450,20 +4592,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4517,6 +4647,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -4581,20 +4723,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4666,6 +4796,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4711,20 +4853,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4796,6 +4926,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4803,7 +4945,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -4844,20 +4990,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -4929,6 +5063,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4975,20 +5121,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5060,6 +5194,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5114,20 +5260,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5199,6 +5333,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5206,7 +5352,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -5249,20 +5399,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5334,6 +5472,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5341,7 +5491,14 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": false,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/39IRlywDlMAFpkmQjktUCO/3737cbcd6f32cd16873b263614c7aa5e/Fitness-First-Richmond-Platinum-Hero-Video-Thumbnail-1800x580.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2Dsf5jYxUts9TXm4wKjUY8/6ff486c8580a1b26dcdf70a6931df26f/Fitness-First-Richmond-Platinum-Gym-Melbourne-Gym-Floor.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -5389,20 +5546,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5474,6 +5619,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5481,7 +5638,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -5529,20 +5690,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5614,6 +5763,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5652,20 +5813,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5727,6 +5876,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5734,7 +5895,11 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3IrWKrZOY4mT60OLjJs9CN/b4b195ef5d95b9d04d4858b25249da96/THEZONE.jpg"
+        }
+      ],
       "clubVideos": []
     },
     {
@@ -5776,20 +5941,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -5861,6 +6014,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5921,20 +6086,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-05",
+        "todayDate": "2026-11-06",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Thursday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Friday",
@@ -6006,6 +6159,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -6013,7 +6178,17 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [],
+      "clubPhotos": [
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2gGOmhk5HoEUFjXrpjVBtY/d8d12a25ac597a48576249aaf41472c8/Willo_11__1_.jpg"
+        },
+        {
+          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6h32ieM5ADVMque4vVHwWj/338e4bfd69683e987964eb0aa18d6816/Willo_8_.jpg"
+        }
+      ],
       "clubVideos": []
     }
   ],
