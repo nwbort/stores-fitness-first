@@ -1,10 +1,10 @@
 {
-  "searchTime": "2026-11-23T18:18:59.2553436+00:00",
+  "searchTime": "2026-11-24T17:51:51.324646+00:00",
   "hasResult": true,
   "count": 45,
   "clubs": [
     {
-      "phone": "395264550",
+      "phone": "0395264550",
       "longitude": 144.99384,
       "latitude": -37.87007,
       "title": "Balaclava Platinum",
@@ -43,20 +43,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -128,6 +116,18 @@
                 "endTime": "0001-01-01T21:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -149,7 +149,7 @@
       "clubVideos": []
     },
     {
-      "phone": "280933200",
+      "phone": "0280933200",
       "longitude": 151.264343,
       "latitude": -33.793169,
       "title": "Balgowlah Platinum",
@@ -184,20 +184,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -269,6 +257,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -290,7 +290,7 @@
       "clubVideos": []
     },
     {
-      "phone": "283628800",
+      "phone": "0283628800",
       "longitude": 151.202142,
       "latitude": -33.863405,
       "title": "Barangaroo Titanium",
@@ -325,20 +325,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -400,6 +388,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -415,7 +415,7 @@
       "clubVideos": []
     },
     {
-      "phone": "395597400",
+      "phone": "0395597400",
       "longitude": 145.0312471,
       "latitude": -37.954688,
       "title": "Bayside Platinum",
@@ -459,20 +459,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -544,6 +532,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -565,7 +565,7 @@
       "clubVideos": []
     },
     {
-      "phone": "282150200",
+      "phone": "0282150200",
       "longitude": 151.2083024,
       "latitude": -33.864454,
       "title": "Bond St Platinum",
@@ -601,20 +601,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -676,6 +664,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -697,7 +697,7 @@
       "clubVideos": []
     },
     {
-      "phone": "283835800",
+      "phone": "0283835800",
       "longitude": 151.249246,
       "latitude": -33.892363,
       "title": "Bondi Spring St Platinum",
@@ -738,20 +738,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -823,6 +811,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -844,7 +844,7 @@
       "clubVideos": []
     },
     {
-      "phone": "399452600",
+      "phone": "0399452600",
       "longitude": 145.011903,
       "latitude": -37.909254,
       "title": "Brighton",
@@ -889,20 +889,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -969,6 +957,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -984,7 +984,7 @@
       "clubVideos": []
     },
     {
-      "phone": "262215901",
+      "phone": "0262215901",
       "longitude": 149.1332518,
       "latitude": -35.28021909,
       "title": "Canberra",
@@ -1021,20 +1021,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1106,6 +1094,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1121,7 +1121,7 @@
       "clubVideos": []
     },
     {
-      "phone": "288459700",
+      "phone": "0288459700",
       "longitude": 151.052069,
       "latitude": -33.777821,
       "title": "Carlingford",
@@ -1162,20 +1162,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1247,6 +1235,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1268,7 +1268,7 @@
       "clubVideos": []
     },
     {
-      "phone": "297621600",
+      "phone": "0297621600",
       "longitude": 151.0049599,
       "latitude": -33.732819,
       "title": "Castle Hill",
@@ -1315,20 +1315,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1400,6 +1388,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1421,7 +1421,7 @@
       "clubVideos": []
     },
     {
-      "phone": "280933249",
+      "phone": "0280933249",
       "longitude": 151.182188,
       "latitude": -33.795796,
       "title": "Chatswood Platinum",
@@ -1467,20 +1467,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1552,6 +1540,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1577,7 +1577,7 @@
       ]
     },
     {
-      "phone": "285560400",
+      "phone": "0285560400",
       "longitude": 151.1413244,
       "latitude": -34.039511,
       "title": "Cronulla",
@@ -1619,20 +1619,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1704,6 +1692,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1725,7 +1725,7 @@
       "clubVideos": []
     },
     {
-      "phone": "281164200",
+      "phone": "0281164200",
       "longitude": 151.214072,
       "latitude": -33.878575,
       "title": "Darlinghurst Platinum",
@@ -1765,20 +1765,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1850,6 +1838,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1865,7 +1865,7 @@
       "clubVideos": []
     },
     {
-      "phone": "262219600",
+      "phone": "0262219600",
       "longitude": 149.10763,
       "latitude": -35.315523,
       "title": "Deakin",
@@ -1901,20 +1901,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -1986,6 +1974,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2001,7 +2001,7 @@
       "clubVideos": []
     },
     {
-      "phone": "390261600",
+      "phone": "0390261600",
       "longitude": 145.126166,
       "latitude": -37.784626,
       "title": "Doncaster",
@@ -2038,20 +2038,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2123,6 +2111,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2138,7 +2138,7 @@
       "clubVideos": []
     },
     {
-      "phone": "299213200",
+      "phone": "0299213200",
       "longitude": 151.2439184,
       "latitude": -33.87832341,
       "title": "Double Bay",
@@ -2172,15 +2172,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Closed",
-            "scheduledTimes": []
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2227,6 +2220,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2245,7 +2250,7 @@
       "clubVideos": []
     },
     {
-      "phone": "243671000",
+      "phone": "0243671000",
       "longitude": 151.383648,
       "latitude": -33.437893,
       "title": "Erina Fair",
@@ -2290,20 +2295,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2375,6 +2368,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2390,7 +2395,7 @@
       "clubVideos": []
     },
     {
-      "phone": "396164400",
+      "phone": "0396164400",
       "longitude": 144.965361,
       "latitude": -37.817971,
       "title": "Flinders St Platinum",
@@ -2424,20 +2429,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2509,6 +2502,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2530,7 +2535,7 @@
       "clubVideos": []
     },
     {
-      "phone": "286696300",
+      "phone": "0286696300",
       "longitude": 151.207051,
       "latitude": -33.863885,
       "title": "George St Platinum",
@@ -2571,20 +2576,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2656,6 +2649,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2674,7 +2679,7 @@
       "clubVideos": []
     },
     {
-      "phone": "388474800",
+      "phone": "0388474800",
       "longitude": 145.147982,
       "latitude": -37.876695,
       "title": "Glen Waverley",
@@ -2726,20 +2731,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2811,6 +2804,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2832,7 +2837,7 @@
       "clubVideos": []
     },
     {
-      "phone": "284458400",
+      "phone": "0284458400",
       "longitude": 151.103121,
       "latitude": -33.70365,
       "title": "Hornsby",
@@ -2871,20 +2876,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -2956,6 +2949,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2977,7 +2982,7 @@
       "clubVideos": []
     },
     {
-      "phone": "281143600",
+      "phone": "0281143600",
       "longitude": 151.222551,
       "latitude": -33.87521,
       "title": "Kings Cross Platinum",
@@ -3015,20 +3020,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3100,6 +3093,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3121,7 +3126,7 @@
       "clubVideos": []
     },
     {
-      "phone": "290027600",
+      "phone": "0290027600",
       "longitude": 151.11954,
       "latitude": -33.776436,
       "title": "Macquarie",
@@ -3158,20 +3163,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3243,6 +3236,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3264,7 +3269,7 @@
       "clubVideos": []
     },
     {
-      "phone": "399355800",
+      "phone": "0399355800",
       "longitude": 145.082928,
       "latitude": -37.877309,
       "title": "Malvern Valley",
@@ -3305,20 +3310,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3390,6 +3383,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3405,7 +3410,7 @@
       "clubVideos": []
     },
     {
-      "phone": "281173300",
+      "phone": "0281173300",
       "longitude": 151.204695,
       "latitude": -33.870825,
       "title": "Market St Platinum",
@@ -3444,20 +3449,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3519,6 +3512,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3534,7 +3539,7 @@
       "clubVideos": []
     },
     {
-      "phone": "286690200",
+      "phone": "0286690200",
       "longitude": 151.238995,
       "latitude": -33.941064,
       "title": "Maroubra",
@@ -3573,20 +3578,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3658,6 +3651,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3683,7 +3688,7 @@
       ]
     },
     {
-      "phone": "399352600",
+      "phone": "0399352600",
       "longitude": 144.962799,
       "latitude": -37.810466,
       "title": "Melbourne Central Platinum",
@@ -3721,20 +3726,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3806,6 +3799,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3827,7 +3832,7 @@
       "clubVideos": []
     },
     {
-      "phone": "285784800",
+      "phone": "0285784800",
       "longitude": 151.010407,
       "latitude": -34.0165492,
       "title": "Menai",
@@ -3861,20 +3866,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -3946,6 +3939,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3961,7 +3966,7 @@
       "clubVideos": []
     },
     {
-      "phone": "284010800",
+      "phone": "0284010800",
       "longitude": 151.303222,
       "latitude": -33.678626,
       "title": "Mona Vale Platinum",
@@ -4010,20 +4015,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4095,6 +4088,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4110,7 +4115,7 @@
       "clubVideos": []
     },
     {
-      "phone": "289693700",
+      "phone": "0289693700",
       "longitude": 151.240251,
       "latitude": -33.824493,
       "title": "Mosman Platinum",
@@ -4153,20 +4158,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4238,6 +4231,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4259,7 +4264,7 @@
       "clubVideos": []
     },
     {
-      "phone": "280645900",
+      "phone": "0280645900",
       "longitude": 151.178471,
       "latitude": -33.898133,
       "title": "Newtown",
@@ -4296,20 +4301,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4381,6 +4374,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4396,7 +4401,7 @@
       "clubVideos": []
     },
     {
-      "phone": "290331200",
+      "phone": "0290331200",
       "longitude": 151.088225,
       "latitude": -33.863322,
       "title": "North Strathfield",
@@ -4439,20 +4444,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4524,6 +4517,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4539,7 +4544,7 @@
       "clubVideos": []
     },
     {
-      "phone": "296401500",
+      "phone": "0296401500",
       "longitude": 151.207516,
       "latitude": -33.839031,
       "title": "North Sydney Elizabeth Pl",
@@ -4576,20 +4581,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4651,6 +4644,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4666,7 +4671,7 @@
       "clubVideos": []
     },
     {
-      "phone": "282633000",
+      "phone": "0282633000",
       "longitude": 151.207194,
       "latitude": -33.872954,
       "title": "Park St Platinum",
@@ -4707,20 +4712,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4782,6 +4775,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4803,7 +4808,7 @@
       "clubVideos": []
     },
     {
-      "phone": "288448700",
+      "phone": "0288448700",
       "longitude": 151.001924,
       "latitude": -33.815096,
       "title": "Parramatta",
@@ -4848,20 +4853,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -4933,6 +4926,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4948,7 +4953,7 @@
       "clubVideos": []
     },
     {
-      "phone": "284017000",
+      "phone": "0284017000",
       "longitude": 151.07056,
       "latitude": -33.738932,
       "title": "Pennant Hills",
@@ -4982,20 +4987,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5067,6 +5060,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5082,7 +5087,7 @@
       "clubVideos": []
     },
     {
-      "phone": "283301700",
+      "phone": "0283301700",
       "longitude": 151.208043,
       "latitude": -33.871854,
       "title": "Pitt St Platinum",
@@ -5119,20 +5124,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5204,6 +5197,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5219,7 +5224,7 @@
       "clubVideos": []
     },
     {
-      "phone": "386654000",
+      "phone": "0386654000",
       "longitude": 144.966741,
       "latitude": -37.809877,
       "title": "QV Platinum",
@@ -5254,20 +5259,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5339,6 +5332,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5360,7 +5365,7 @@
       "clubVideos": []
     },
     {
-      "phone": "283837100",
+      "phone": "0283837100",
       "longitude": 151.241076,
       "latitude": -33.914856,
       "title": "Randwick Platinum",
@@ -5403,20 +5408,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5488,6 +5481,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5509,7 +5514,7 @@
       "clubVideos": []
     },
     {
-      "phone": "384207100",
+      "phone": "0384207100",
       "longitude": 144.9956718,
       "latitude": -37.82832909,
       "title": "Richmond Platinum",
@@ -5548,20 +5553,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5633,6 +5626,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5651,7 +5656,7 @@
       "clubVideos": []
     },
     {
-      "phone": "284378100",
+      "phone": "0284378100",
       "longitude": 151.1959934,
       "latitude": -33.824821,
       "title": "St Leonards Platinum",
@@ -5695,20 +5700,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5780,6 +5773,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5795,7 +5800,7 @@
       "clubVideos": []
     },
     {
-      "phone": "285436100",
+      "phone": "0285436100",
       "longitude": 151.105104,
       "latitude": -34.008075,
       "title": "Sylvania",
@@ -5839,20 +5844,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -5924,6 +5917,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5939,7 +5944,7 @@
       "clubVideos": []
     },
     {
-      "phone": "292253900",
+      "phone": "0292253900",
       "longitude": 151.208304,
       "latitude": -33.868889,
       "title": "The Zone Platinum",
@@ -5966,20 +5971,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -6041,6 +6034,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -6056,7 +6061,7 @@
       "clubVideos": []
     },
     {
-      "phone": "280717600",
+      "phone": "0280717600",
       "longitude": 151.105252,
       "latitude": -33.812959,
       "title": "Top Ryde Platinum",
@@ -6094,20 +6099,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -6179,6 +6172,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -6204,7 +6209,7 @@
       ]
     },
     {
-      "phone": "289626000",
+      "phone": "0289626000",
       "longitude": 151.201658,
       "latitude": -33.788047,
       "title": "Willoughby Platinum",
@@ -6253,20 +6258,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-24",
+        "todayDate": "2026-11-25",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Tuesday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Wednesday",
@@ -6330,6 +6323,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Monday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Tuesday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
