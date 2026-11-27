@@ -1,5 +1,5 @@
 {
-  "searchTime": "2026-11-26T16:59:04.8405909+00:00",
+  "searchTime": "2026-11-27T16:44:33.0791687+00:00",
   "hasResult": true,
   "count": 45,
   "clubs": [
@@ -43,20 +43,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -128,6 +116,18 @@
                 "endTime": "0001-01-01T21:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -184,20 +184,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T19:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -269,6 +257,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T19:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -325,20 +325,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -392,6 +380,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -459,20 +459,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T18:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -544,6 +532,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -551,17 +551,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2KYr8A49SdiG5Rqggx2KM/833fcbf076aa37538f7618ff5d0b4e31/Untitled_-_November_11__2026_at_16.30.59_Bayside_-_1800x580.png"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3J4BPhD8tBoFAh0WLj7yZ8/4ce66540e211dc380dfe2404c05a0296/Untitled_-_November_11__2026_at_16.30.59_Bayside_2_-_1800x580.png"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2MhApfkD2kYmRtmjvv3XLQ/34ae5ede9caa6c70c542e77c35744df1/Untitled_-_November_11__2026_at_16.30.59_Bayside_3_-_1800x580.png"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -601,20 +591,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -674,6 +652,18 @@
               {
                 "startTime": "0001-01-01T05:30:00.0000000",
                 "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
           }
@@ -738,20 +728,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -823,6 +801,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -830,17 +820,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/67RTUMcDlkLSkig9Iwjjnn/4cff1d7984223f3f364b4e70c43a0950/Spring_St_1.jpg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3C9sYbdl0AIJAfhsG8rjUo/9394fa5360ded314a0d66a7f927a3402/Spring_St_2.jpg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/NnT3eE3fyQsWHTnp2vxie/663a0525f1e2a91b8bafe3ad01d9f846/Spring_St_3.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -889,20 +869,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T18:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -969,6 +937,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1021,20 +1001,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T19:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1106,6 +1074,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T19:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1162,20 +1142,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1247,6 +1215,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1254,17 +1234,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3omFrqjOt8pDylCaHtVZTu/6efa78df70f23dfddeacce9d0b3dc47c/Carlingford_-_1800x580_Carlingford_-_1800x580-2.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/31k4tXVIZKWkpEOLIui93w/d18c3d31d6b282a591d6d06dd1606755/Carlingford_-_1800x580_Carlingford_-_1800x580-1.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1J6CaFYahGv0DVzISr2oyV/59f9ddc02df44aeea567df8cd1010d59/Carlingford_-_1800x580_Carlingford_-_1800x580-3.jpeg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -1315,20 +1285,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1400,6 +1358,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1407,17 +1377,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6LOwT7wbhYoGwoKD51TOCy/b10a2fc87dc893b77ff84622ba8b909b/Castle_Hill_-_1800x580_Castle_Hill_-_1800x580-1.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/5UUf39BeKki8i8GQR4y3Qh/3757835a51c0717ed71f8cce8face668/Castle_Hill_-_1800x580_Castle_Hill_-_1800x580-5.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2XWotoak8Ltx2YMNd5mcGf/57705c35e11b4997c8fd7873c3509e3d/Castle_Hill_-_1800x580_Castle_Hill_-_1800x580-7.jpeg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -1467,20 +1427,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1552,6 +1500,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1619,20 +1579,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1704,6 +1652,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -1711,17 +1671,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/1iDrnorJiqyAkdhZ2QyhXd/835447102e66545333579a9d4b874ec2/Cronulla_-_1800x580_Cronulla_-_1800x580-6.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/qXHUiI2ls03JSqebzC3LE/b25aeeee1d4c6da0f2d41ffbe6636291/Cronulla_-_1800x580_Cronulla_-_1800x580-1.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/77cDm4jRJ2MLplwzZcq9yw/779b4817f5b3fc54cf613e555dd7e5be/Cronulla_-_1800x580_Cronulla_-_1800x580-3.jpeg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -1765,20 +1715,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1850,6 +1788,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -1901,20 +1851,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -1986,6 +1924,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2038,20 +1988,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2123,6 +2061,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2172,15 +2122,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": "Closed",
-            "scheduledTimes": []
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2240,6 +2183,18 @@
               {
                 "startTime": "0001-01-01T06:00:00.0000000",
                 "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
           }
@@ -2305,20 +2260,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:30:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2390,6 +2333,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:30:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2397,11 +2352,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -2439,20 +2390,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2524,6 +2463,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -2531,17 +2482,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/6XJROtFRiVAt7ktNyuV5mw/5b142e977ea4530a52a7d91d3bb43f06/IMG_4416_2.jpg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/41SAv1YFRdw27DAKz9SOsE/40cf8853bb5c409807daa9c0b5cd9da3/thumbnail_IMG_4455_2.jpg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2bChJKOW0LUhYnSSWkHtUt/21a53cbc9afa667dda5438aeaa401179/thumbnail_IMG_4437_2.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -2586,20 +2527,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2669,6 +2598,18 @@
               {
                 "startTime": "0001-01-01T06:00:00.0000000",
                 "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
           }
@@ -2741,20 +2682,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2826,6 +2755,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -2833,17 +2774,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3cit2B3lfhMwi14zS0AxxL/984100e9ba79bcfefb229fde91583e47/Glen_Waverley_-_1800x580_Glen_Waverley_-_1800x580-1.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7v8Bt2xRRhH4ZK9kP1Ykmk/de6c71f50adc407c33ce84698d6509a8/Glen_Waverley_-_1800x580_Glen_Waverley_-_1800x580-5.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/lAqdKUjCkhC7QmC497EiZ/7b539074b9ae61346231ebfbd0aeda86/Glen_Waverley_-_1800x580_Glen_Waverley_-_1800x580-3.jpeg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -2886,20 +2817,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -2971,6 +2890,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3030,20 +2961,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3107,6 +3026,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -3173,20 +3104,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3256,6 +3175,18 @@
               {
                 "startTime": "0001-01-01T06:00:00.0000000",
                 "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
           }
@@ -3320,20 +3251,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T08:00:00.0000000",
-                "endTime": "0001-01-01T18:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3403,6 +3322,18 @@
               {
                 "startTime": "0001-01-01T07:00:00.0000000",
                 "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T08:00:00.0000000",
+                "endTime": "0001-01-01T18:00:00.0000000"
               }
             ]
           }
@@ -3459,20 +3390,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3534,6 +3453,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -3541,11 +3472,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -3588,20 +3515,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3665,6 +3580,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -3736,20 +3663,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3821,6 +3736,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -3876,20 +3803,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T16:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -3959,6 +3874,18 @@
               {
                 "startTime": "0001-01-01T06:00:00.0000000",
                 "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
               }
             ]
           }
@@ -4025,20 +3952,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4102,6 +4017,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -4168,20 +4095,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4245,6 +4160,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -4311,20 +4238,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T16:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4396,6 +4311,18 @@
                 "endTime": "0001-01-01T19:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -4403,11 +4330,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -4454,20 +4377,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4531,6 +4442,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -4591,20 +4514,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T07:00:00.0000000",
-                "endTime": "0001-01-01T16:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4664,6 +4575,18 @@
               {
                 "startTime": "0001-01-01T07:00:00.0000000",
                 "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T07:00:00.0000000",
+                "endTime": "0001-01-01T16:00:00.0000000"
               }
             ]
           }
@@ -4722,20 +4645,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4789,6 +4700,18 @@
           {
             "scheduleType": "OpenHours",
             "dayName": "Thursday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
             "publicHolidayName": null,
             "timeOverrideText": null,
             "scheduledTimes": [
@@ -4863,20 +4786,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -4948,6 +4859,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -4997,20 +4920,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5082,6 +4993,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5089,11 +5012,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -5134,20 +5053,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5217,6 +5124,18 @@
               {
                 "startTime": "0001-01-01T06:00:00.0000000",
                 "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
           }
@@ -5269,20 +5188,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5354,6 +5261,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5418,20 +5337,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5503,6 +5410,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5563,20 +5482,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T19:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5648,6 +5555,18 @@
                 "endTime": "0001-01-01T20:30:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T19:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5655,14 +5574,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": false,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/39IRlywDlMAFpkmQjktUCO/3737cbcd6f32cd16873b263614c7aa5e/Fitness-First-Richmond-Platinum-Hero-Video-Thumbnail-1800x580.jpg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/2Dsf5jYxUts9TXm4wKjUY8/6ff486c8580a1b26dcdf70a6931df26f/Fitness-First-Richmond-Platinum-Gym-Melbourne-Gym-Floor.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -5710,20 +5622,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5795,6 +5695,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -5802,11 +5714,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/4keOZwfBcmLE8YDcOL2B5t/c404670648042ee64c6a247a74a4f22e/HD-240224_FitnessFirst_Shot_16_4485_BodyPump.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -5854,20 +5762,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:00:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -5939,6 +5835,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:00:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -5981,20 +5889,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:45:00.0000000",
-                "endTime": "0001-01-01T20:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -6056,6 +5952,18 @@
                 "endTime": "0001-01-01T20:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:45:00.0000000",
+                "endTime": "0001-01-01T20:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -6063,11 +5971,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3IrWKrZOY4mT60OLjJs9CN/b4b195ef5d95b9d04d4858b25249da96/THEZONE.jpg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     },
     {
@@ -6109,20 +6013,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T06:00:00.0000000",
-                "endTime": "0001-01-01T22:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -6194,6 +6086,18 @@
                 "endTime": "0001-01-01T22:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T06:00:00.0000000",
+                "endTime": "0001-01-01T22:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": false
@@ -6201,22 +6105,8 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/YNrAfa3Ui33T3Fbegt4Jk/d65431e7667b5875678c96ea768bbe94/Top_Ryde_Banner_1800x580-1.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/5XEYIJrdhxBzw65Q6vQjVG/f1ebcd40a8012332436f0d2ff4153585/Top_Ryde_Banner_1800x580-2.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/ttLuVeoX9rfBwR5YeIxAJ/f439f2fb952f99025f18ba808e0f2948/Top_Ryde_Banner_1800x580-6.jpeg"
-        }
-      ],
-      "clubVideos": [
-        {
-          "videoUrl": "https://videos.ctfassets.net/29v1tt20s4yg/3rsVAU5LKOQbCQoU1fYsWl/5f1a5ef7335721e8af6550098e7867d0/264648_Fitness_First_Revive_Web_Banners_Top_Ryde_2000x1000.mp4"
-        }
-      ]
+      "clubPhotos": [],
+      "clubVideos": []
     },
     {
       "phone": "0289626000",
@@ -6268,20 +6158,8 @@
       "openDate": "0001-01-01T00:00:00",
       "schedule": {
         "todayName": "Today",
-        "todayDate": "2026-11-27",
+        "todayDate": "2026-11-28",
         "scheduleDays": [
-          {
-            "scheduleType": "OpenHours",
-            "dayName": "Friday",
-            "publicHolidayName": null,
-            "timeOverrideText": null,
-            "scheduledTimes": [
-              {
-                "startTime": "0001-01-01T05:30:00.0000000",
-                "endTime": "0001-01-01T21:00:00.0000000"
-              }
-            ]
-          },
           {
             "scheduleType": "OpenHours",
             "dayName": "Saturday",
@@ -6353,6 +6231,18 @@
                 "endTime": "0001-01-01T21:00:00.0000000"
               }
             ]
+          },
+          {
+            "scheduleType": "OpenHours",
+            "dayName": "Friday",
+            "publicHolidayName": null,
+            "timeOverrideText": null,
+            "scheduledTimes": [
+              {
+                "startTime": "0001-01-01T05:30:00.0000000",
+                "endTime": "0001-01-01T21:00:00.0000000"
+              }
+            ]
           }
         ],
         "isOpen24Hours": true
@@ -6360,17 +6250,7 @@
       "isPreSales": false,
       "isOnEcomm": true,
       "isPTPacksOnSale": true,
-      "clubPhotos": [
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/7spCMJaLiMTHXiuBFO4AZl/b6185a7e69084b22ede607c11c0b8284/253900_FF_Kings_Cross_LM_Ceremony_WebBanner_1800x580_Asset_58.jpg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3Wmpq9pXYB4xIZMrxS5T7J/77a74ee7e3d6ca8cff34068f6909c0c3/Willoughby_Banner_1800x580-1.jpeg"
-        },
-        {
-          "photoUrl": "https://images.ctfassets.net/29v1tt20s4yg/3ujnyVuduZV4h4CLA8rjjR/3ad4ea0048860804ac26905fc16b6dc2/Willoughby_Banner_1800x580-2.jpeg"
-        }
-      ],
+      "clubPhotos": [],
       "clubVideos": []
     }
   ],
